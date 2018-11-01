@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/venom.mk
+	$(LOCAL_DIR)/venom_sanders.mk
